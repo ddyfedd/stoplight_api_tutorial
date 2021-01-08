@@ -1,2 +1,2 @@
-# stoplight_apit_tutorial
+# stoplight_api_tutorial
 API documentation tutorial with Stoplight
